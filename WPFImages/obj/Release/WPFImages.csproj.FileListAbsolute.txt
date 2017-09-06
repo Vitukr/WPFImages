@@ -1,0 +1,17 @@
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\bin\Release\Resources\arrowDown.jpg
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\bin\Release\Resources\arrowUp.jpg
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\bin\Release\WPFImages.exe.config
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\bin\Release\WPFImages.exe
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\bin\Release\WPFImages.pdb
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\MainWindow.g.cs
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\App.g.cs
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages_Content.g.cs
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages_MarkupCompile.cache
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages_MarkupCompile.lref
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\MainWindow.baml
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages.g.resources
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages.Properties.Resources.resources
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages.csproj.GenerateResource.Cache
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages.exe
+C:\Users\Vit\Documents\Visual Studio 2017\Projects\WPFImages\WPFImages\obj\Release\WPFImages.pdb
